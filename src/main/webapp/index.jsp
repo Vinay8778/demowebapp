@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to Santu, Vinu and Sagu on behalf of DevOps Academy</h2>
       
-<center><img src="https://infinitotek.com//wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
+<center><img src="IMG_20191224_115047.jpg//wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
