@@ -3,6 +3,8 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-latest'
+  demands:
+  name: 
 jobs:
 - job: job1
   steps:
@@ -19,8 +21,8 @@ jobs:
   - script: echo Job2
     displayName: 'Run a one-line script'
   - script: |
-      scho Add other tasks to build, test, and deploy your project.
-      scho See https://aka.ms/yaml
+      echo Add other tasks to build, test, and deploy your project.
+      echo See https://aka.ms/yaml
     displayName: 'Run a multi-line script' 
 - job: job3
   dependsOn: job2
